@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello,%20Everyone%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+  <img width=1200 src="https://capsule-render.vercel.app/api?text=Hello,%20Everyone%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=200"/>
+
 <h1>I am Mohamed Azzazi...</h1>
 <p align='center'>
 <a href="https://www.facebook.com/Azzaziiii/"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/facebook.png?raw=true"></a>
@@ -14,13 +13,38 @@ I am a passionate Computer Science graduate finished Information Technology Inis
 
 - 🔭 I’m currently searching for a Full-time job.
 
-- 📄 Know about my experiences [My Resume](https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Resume/Mohamed-AL-Azzazi.pdf)
+- 📄 [My Resume](https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Resume/Mohamed-AL-Azzazi%20.pdf)
 
+<h3 align="left">Languages:</h3>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height=40>
+</p>
+
+<h3 align="left">Tools and Technologies:</h3>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height=40>
+</p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
 </a>
 <a href="https://github.com/AL-Azzazi/convoychat" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<br>
+<br>
+<br>
+<img width=1200 src="https://capsule-render.vercel.app/api?text=Contact%20Me%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=200"/>
