@@ -47,4 +47,4 @@ I am a passionate Computer Science graduate finished Information Technology Inis
 <br>
 <br>
 <br>
-<img width=1200 src="https://capsule-render.vercel.app/api?text=Contact%20Me%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=200"/>
+<img width=1200 src="https://capsule-render.vercel.app/api?text=Contact%20Me&animation=fadeIn&type=waving&color=gradient&height=200"/>
