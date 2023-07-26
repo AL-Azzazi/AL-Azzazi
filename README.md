@@ -6,15 +6,21 @@
 <a href="https://www.facebook.com/Azzaziiii/"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/facebook.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/mohamed-azzazi/"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/linkedin.png?raw=true"></a>
 <a href="https://wa.me/01283613063"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/whatsapp.png?raw=true"></a>
+<a href="mailto: mohamed.esam.azazy@gmail.com"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/email.png?raw=true"></a>
 </p>
+<h2>About me </h2>
+I am a passionate Computer Science graduate finished Information Technology Inistitute internship in Full Stack Development Using ASP.NET & Angular.
 
 
+- 🔭 I’m currently searching for a Full-time job.
+
+- 📄 Know about my experiences [My Resume](https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Resume/Mohamed-AL-Azzazi.pdf)
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
 </a>
 <a href="https://github.com/AL-Azzazi/convoychat" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=450" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=400" />
 </a>
