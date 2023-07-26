@@ -3,19 +3,18 @@
 </p>
 <h1>I am Mohamed Azzazi...</h1>
 <p align='center'>
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.facebook.com/Azzaziiii/"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/facebook.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/mohamed-azzazi/"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/linkedin.png?raw=true"></a>
+<a href="https://wa.me/01283613063"><img height="30" src="https://github.com/AL-Azzazi/AL-Azzazi/blob/main/Icons/whatsapp.png?raw=true"></a>
 </p>
 
 
 
 
 
-
-
-#<a href="https://github.com/anuraghazra/github-readme-stats">
- # <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
-#</a>
-#<a href="https://github.com/AL-Azzazi/convoychat" >
- # <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=450" />
-#</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Azzazi&repo=Shipping-Management-System" />
+</a>
+<a href="https://github.com/AL-Azzazi/convoychat" >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AL-Azzazi&layout=compact&langs_count=8&card_width=450" />
+</a>
